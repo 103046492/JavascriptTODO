@@ -1,0 +1,35 @@
+body{
+    background-color:  #c0c5ce;
+}
+
+.heading{
+    text-align: center;
+    font-family: 'Bangers', cursive;
+    color: #3b5998;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.inputs{
+
+}
+
+.entry{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+
+.anime-list, .errands-list, .death-note{
+    display: inline-block;
+    background-color: #3b5998;
+    border: 1px;
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    padding-top: 30px;
+}
